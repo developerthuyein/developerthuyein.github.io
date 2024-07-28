@@ -1,2 +1,4 @@
-# developerthuyein.github.io
-Hello World
+မင်္ဂလာဦးဆွမ်းကျွေးအလှူ ဖိတ်ကြားခြင်း
+
+သူရိန်ဝင်း + ဝတ်မှုံဦး
+ 
